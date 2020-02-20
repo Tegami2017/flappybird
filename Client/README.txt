@@ -1,6 +1,8 @@
-1.ÓÎÏ·demo¿ÉÒÔÍ¨¹ıflappy_bird\dist\FlappyBird\FlappyBird.exe´ò¿ª¡£
-2.start_server.batÆô¶¯ÓÎÏ··şÎñÆ÷¡£´ò¿ª·şÎñÆ÷£¬ÔÙ´ò¿ªFlappyBird.exe£¬µã»÷¡°notice¡±°´Å¥ÏÔÊ¾·şÎñÆ÷¹«¸æ¡£
-3.ÓÎÏ·Âß¼­´úÂëÔÚflappy_bird\libÄ¿Â¼ÏÂ¡£
-4.ÓÎÏ·×ÊÔ´ÎÄ¼şÔÚflappy_bird\dataÄ¿Â¼ÏÂ¡£
-5.ÓÎÏ··şÎñÆ÷´úÂëÔÚflappy_bird\FlappyBirdServerÄ¿Â¼ÏÂ¡£
-6.build.batÊÇ´òEXEµÄÖ¸ÁîÎÄ¼ş£¬ÔËĞĞËüĞèÒªÏÈ°²×°pyinstaller£ºhttp://www.pyinstaller.org/
+1.æ¸¸æˆdemoå¯ä»¥é€šè¿‡flappy_bird\dist\FlappyBird\FlappyBird.exeæ‰“å¼€ã€‚
+2.start_server.batå¯åŠ¨æ¸¸æˆæœåŠ¡å™¨ã€‚æ‰“å¼€æœåŠ¡å™¨ï¼Œå†æ‰“å¼€FlappyBird.exeï¼Œç‚¹å‡»â€œnoticeâ€æŒ‰é’®æ˜¾ç¤ºæœåŠ¡å™¨å…¬å‘Šã€‚
+3.æ¸¸æˆé€»è¾‘ä»£ç åœ¨flappy_bird\libç›®å½•ä¸‹ã€‚
+4.æ¸¸æˆèµ„æºæ–‡ä»¶åœ¨flappy_bird\dataç›®å½•ä¸‹ã€‚
+5.æ¸¸æˆæœåŠ¡å™¨ä»£ç åœ¨flappy_bird\FlappyBirdServerç›®å½•ä¸‹ã€‚
+6.build.batæ˜¯æ‰“EXEçš„æŒ‡ä»¤æ–‡ä»¶ï¼Œè¿è¡Œå®ƒéœ€è¦å…ˆå®‰è£…pyinstallerï¼šhttp://www.pyinstaller.org/
+
+
